@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InOne</string>
+    <string name="textview1">textview1</string>
+    <string name="textview2">textview2</string>
+    <string name="textview3">textview3</string>
+    <string name="weather_app">weather_app</string>
+    <string name="pnr_status">pnr_status</string>
+    <string name="check">check</string>
+    <string name="pnrStatus">pnrStatus</string>
+    <string name="pnr_check">pnr_check</string>
+    <string name="listener">listener</string>
+</resources>
