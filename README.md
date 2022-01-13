@@ -5,9 +5,9 @@ This Android Application displays and allow access to all installed apps (includ
 
 
 <p>
-    <img src="C:/Users/nihal/Downloads/InOne/Images/image-1.jpeg" width='250' height='400'>
-    <img src="C:/Users/nihal/Downloads/InOne/Images/image-2.jpeg" width='250' height='400'>
-    <img src="C:/Users/nihal/Downloads/InOne/Images/image-3.jpeg" width='250' height='400'>
+    <img src="/Images/image-1.jpeg" width='250' height='400'>
+    <img src="/Images/image-2.jpeg" width='250' height='400'>
+    <img src="/Images/image-3.jpeg" width='250' height='400'>
 </p>
 
 To watch the app working video [click here](https://drive.google.com/file/d/1GhIRQGJ6RFKtkR3Yu9szUKNVIxy-ZbYH/view?usp=sharing)
